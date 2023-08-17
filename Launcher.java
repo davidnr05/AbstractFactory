@@ -9,6 +9,9 @@ import model.products.alpina.Alpina;
 import model.products.colanta.Colanta;
 
 public class Launcher {
+
+
+	System.out.println("Hola soy David y temblo hoy");
 	
 	public static void main(String[] a ) {
 		Fabrica f=null;
