@@ -22,7 +22,7 @@ public class Launcher {
 			f=new Colanta();
 		}
 		
-		Queso q=f.getQueso();
+		Queso quueso=f.getQueso();
 		Yogurt y=f.getYogurt();
 		
 		System.out.println(q.darMensaje());

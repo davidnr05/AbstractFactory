@@ -24,10 +24,10 @@ public class Launcher {
 		
 		System.out.println(i);
 		
-		Queso q=f.getQueso();
+		Queso queso=f.getQueso();
 		Yogurt y=f.getYogurt();
 		
-		System.out.println(q.darMensaje());
+		System.out.println(queso.darMensaje());
 		System.out.println(y.getMessage());
 	}
 
